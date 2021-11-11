@@ -1,0 +1,7 @@
+D:\Certificaciones de programacion\TareaEjeCartesiano\bin\Debug\TareaEjeCartesiano.exe.config
+D:\Certificaciones de programacion\TareaEjeCartesiano\bin\Debug\TareaEjeCartesiano.exe
+D:\Certificaciones de programacion\TareaEjeCartesiano\bin\Debug\TareaEjeCartesiano.pdb
+D:\Certificaciones de programacion\TareaEjeCartesiano\obj\Debug\TareaEjeCartesiano.csprojAssemblyReference.cache
+D:\Certificaciones de programacion\TareaEjeCartesiano\obj\Debug\TareaEjeCartesiano.csproj.CoreCompileInputs.cache
+D:\Certificaciones de programacion\TareaEjeCartesiano\obj\Debug\TareaEjeCartesiano.exe
+D:\Certificaciones de programacion\TareaEjeCartesiano\obj\Debug\TareaEjeCartesiano.pdb
